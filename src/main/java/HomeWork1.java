@@ -19,7 +19,7 @@ public class HomeWork1 {
         System.out.println("Hobby:" + line3);
         System.out.println("Человек по имени " + line + " живёт в городе " + line2 + ". Ему " + i1 +
                 " лет и он любит заниматься " + line3 + ".");
-        System.out.println("\\\\"" + line +"\""+ " - name\n" +
+        System.out.println("\\\"" + line +"\""+ " - name\n" +
                 line2 + " - city\n" +
                 i1 + " - age\n" +
                 line3 + " - hobby\n");
